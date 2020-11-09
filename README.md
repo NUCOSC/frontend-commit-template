@@ -12,6 +12,14 @@
 - lint-staged
 - husky
 
+## 项目依赖
+
+`npm`全局安装`commitizen`
+
+```bash
+npm i -g commitizen
+```
+
 ## 构建流程
 
 1. 代码风格检查 —— 使用eslint对代码进行检查`.eslintrc.json`
