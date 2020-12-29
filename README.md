@@ -2,6 +2,12 @@
 
 前端代码风格及commit风格规范化模板
 
+> 仅供参考，实际使用请参考工程模板
+
+## 工程模板请参考
+
+- [raw-react](https://github.com/HerbertHe/raw-react)
+
 ## 代码风格与commit规范工具
 
 - eslint

@@ -1,6 +1,6 @@
 {
     "name": "frontend-commit-template",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "前端代码风格及commit风格规范化模板",
     "main": "index.js",
     "scripts": {
@@ -25,7 +25,6 @@
         "cz-customizable": "^6.3.0",
         "eslint": "^7.7.0",
         "eslint-config-prettier": "^6.11.0",
-        "eslint-plugin-prettier": "^3.1.4",
         "eslint-plugin-react": "^7.20.6",
         "husky": "^4.2.5",
         "lint-staged": "^10.2.11",
